@@ -353,3 +353,12 @@ textarea:valid~label{
     opacity: 60%;
     transition: all 0.5s ease 0s;
 }
+
+.logolink{
+    font-size: 60px;
+    font-weight: 400;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 15px;
+    text-decoration: none;
+}
